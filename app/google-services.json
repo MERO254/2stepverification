@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192053292699",
+    "project_id": "stepverification-45046",
+    "storage_bucket": "stepverification-45046.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192053292699:android:c24125d29fc29d727ce03e",
+        "android_client_info": {
+          "package_name": "com.example.a2stepverification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCneU_d5PkaseRaRTiEq1dr6v8EoepXKVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
